@@ -27,5 +27,11 @@
   "minPrice": "Min Price",
   "maxPrice": "Max Price",
   "fee": "Fee",
-  "viewModal": "View Modal"
+  "viewModal": "View Modal",
+  "preferences": "Preferences",
+  "support": "Support",
+  "systemVibration": "System Vibration",
+  "clearCache": "Clear Cache",
+  "clearCacheDesc": "Clear local data and reload",
+  "clearCacheConfirm": "Are you sure you want to clear cache?"
 }
