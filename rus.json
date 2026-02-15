@@ -27,5 +27,11 @@
   "minPrice": "Мин. цена",
   "maxPrice": "Макс. цена",
   "fee": "Комиссия",
-  "viewModal": "Посмотреть"
+  "viewModal": "Посмотреть",
+  "preferences": "Настройки",
+  "support": "Поддержка",
+  "systemVibration": "Системная вибрация",
+  "clearCache": "Очистить кэш",
+  "clearCacheDesc": "Удалить данные и перезагрузить",
+  "clearCacheConfirm": "Вы уверены, что хотите очистить кэш?"
 }
