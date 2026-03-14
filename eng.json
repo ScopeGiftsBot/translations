@@ -35,5 +35,6 @@
   "clearCacheDesc": "Clear local data and reload",
   "clearCacheConfirm": "Are you sure you want to clear cache?",
   "stats": "Stats",
-  "viewModel": "View Model"
+  "viewModel": "View Model",
+  "gifts": "Gifts"
 }
