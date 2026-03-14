@@ -33,5 +33,7 @@
   "systemVibration": "System Vibration",
   "clearCache": "Clear Cache",
   "clearCacheDesc": "Clear local data and reload",
-  "clearCacheConfirm": "Are you sure you want to clear cache?"
+  "clearCacheConfirm": "Are you sure you want to clear cache?",
+  "stats": "Stats",
+  "viewModel": "View Model"
 }
