@@ -49,5 +49,7 @@
   "hidePreMarket": "Скрыть пре-маркет",
   "showOnlyPreMarket": "Только пре-маркет",
   "min": "Мин",
-  "max": "Макс"
+  "max": "Макс",
+  "noCollectionsFound": "Коллекции не найдены",
+  "all": "Все"
 }
