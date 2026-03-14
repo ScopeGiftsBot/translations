@@ -49,5 +49,7 @@
   "hidePreMarket": "Hide Pre-Market Collections",
   "showOnlyPreMarket": "Show only Pre-Market Collections",
   "min": "Min",
-  "max": "Max"
+  "max": "Max",
+  "noCollectionsFound": "No Collections found",
+  "all": "All"
 }
