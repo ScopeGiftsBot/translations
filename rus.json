@@ -36,5 +36,18 @@
   "clearCacheConfirm": "Вы уверены, что хотите очистить кэш?",
   "stats": "Стат.",
   "viewModel": "Смотреть",
-  "gifts": "Подарков"
+  "gifts": "Подарков",
+  "sortBy": "Сортировка",
+  "price": "Цена",
+  "preMarket": "Пре-маркет",
+  "alphabet": "По алфавиту",
+  "priceLowToHigh": "Цена: по возрастанию",
+  "priceHighToLow": "Цена: по убыванию",
+  "supplyAsc": "Саплай: по возрастанию",
+  "supplyDesc": "Саплай: по убыванию",
+  "showAll": "Показать все коллекции",
+  "hidePreMarket": "Скрыть пре-маркет",
+  "showOnlyPreMarket": "Только пре-маркет",
+  "min": "Мин",
+  "max": "Макс"
 }
