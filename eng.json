@@ -36,5 +36,18 @@
   "clearCacheConfirm": "Are you sure you want to clear cache?",
   "stats": "Stats",
   "viewModel": "View Model",
-  "gifts": "Gifts"
+  "gifts": "Gifts",
+  "sortBy": "Sort By",
+  "price": "Price",
+  "preMarket": "Pre-Market",
+  "alphabet": "Alphabet",
+  "priceLowToHigh": "Price: Low to High",
+  "priceHighToLow": "Price: High to Low",
+  "supplyAsc": "Collection Supply: Ascending",
+  "supplyDesc": "Collection Supply: Descending",
+  "showAll": "Show all Collections",
+  "hidePreMarket": "Hide Pre-Market Collections",
+  "showOnlyPreMarket": "Show only Pre-Market Collections",
+  "min": "Min",
+  "max": "Max"
 }
